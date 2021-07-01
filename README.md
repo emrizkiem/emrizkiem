@@ -1,16 +1,17 @@
-#### Hello World~
+## Hello World~
 
-<!--
-**emrizkiem/emrizkiem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is **M. Rizki Maulana**, a Passionate Mobile Developer, currently working with Swift. i'm currently learning Swift and SwiftUI for improve my skills as an Developer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on <a href="https://www.https://www.telkom.co.id/sites">Telkom Indonesia</a> as **Mobile Developer**
+- 👯 I’m looking to collaborate on [Android Developer Serang](https://github.com/androidev-serang)
+- 📫 How to reach me: **devemrizkiem@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Follow me
+[![Twitter: emrizkiem](https://img.shields.io/twitter/follow/emrizkiem?style=social)](https://twitter.com/emrizkiem)
+[![Linkedin: emrizkiem](https://img.shields.io/badge/-emrizkiem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrizkiem/)](https://www.linkedin.com/in/fionicholas/)
+[![GitHub emrizkiem](https://img.shields.io/github/followers/emrizkiem?label=follow&style=social)](https://github.com/emrizkiem)
+
+#### Languages and Tools
+
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="24" src="https://developer.apple.com/swift/images/swift-og.png"></code>
