@@ -8,8 +8,7 @@ My Name is **M. Rizki Maulana**, a Passionate Mobile Developer, currently workin
 
 #### Follow me
 [![Twitter: emrizkiem](https://img.shields.io/twitter/follow/emrizkiem?style=social)](https://twitter.com/emrizkiem)
-[![Linkedin: emrizkiem](https://img.shields.io/badge/-emrizkiem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrizkiem/)](https://www.linkedin.com/in/fionicholas/)
-[![GitHub emrizkiem](https://img.shields.io/github/followers/emrizkiem?label=follow&style=social)](https://github.com/emrizkiem)
+[![Linkedin: emrizkiem](https://img.shields.io/badge/-emrizkiem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emrizkiem/)](https://www.linkedin.com/in/emrizkiem/)
 
 #### Languages and Tools
 
