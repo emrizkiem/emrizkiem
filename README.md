@@ -2,6 +2,7 @@
 
 My Name is **M. Rizki Maulana**, a Passionate Mobile Developer, currently working with Swift. i'm currently learning Swift and SwiftUI for improve my skills as an Developer.
 
+- 🔭 I’m currently working on <a href="https://www.https://www.telkom.co.id/sites">Telkom Indonesia</a> as **Mobile Developer**
 - 👯 I’m looking to collaborate on [Android Developer Serang](https://github.com/androidev-serang)
 - 📫 How to reach me: **devemrizkiem@gmail.com**
 
